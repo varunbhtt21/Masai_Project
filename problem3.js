@@ -11,10 +11,10 @@ if(rice_available)
 
 if(wheat_available)
 {
-  console.log("Buy Wheat");
+  console.log("Buy Choclate");
 }
 
 if(apple_available)
 {
-   console.log("Buy Apple");
+   console.log("Buy Ice Cream");
 }
